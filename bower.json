@@ -1,0 +1,17 @@
+{
+  "name": "component-d",
+  "version": "0.0.0",
+  "homepage": "https://github.com/a-os/component-d",
+  "main": "script.js",
+  "license": "MPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "examples",
+    "LICENSE",
+    "README.md"
+  ]
+}
