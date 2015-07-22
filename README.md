@@ -1,2 +1,2 @@
 # component-d
-I am 0.0.3
+I am 0.0.4
